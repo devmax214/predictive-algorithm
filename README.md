@@ -8,7 +8,7 @@ This project aims to provide a prediction for the number of miles you will trave
 
 The algorithm follows these steps:
 
-1. **Gather daily mileage data**: Collect the daily mileage data for your lease vehicle from a CSV file.
+1. **Gather daily mileage data**: Collect the daily mileage data for your lease vehicle from a xlsx file.
 
 2. **Calculate the average daily mileage**: Calculate the average of all the recorded daily mileages to get an estimate of your typical daily mileage.
 
